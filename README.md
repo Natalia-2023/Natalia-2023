@@ -17,23 +17,31 @@
 - Техники тестирования документации 
 Примеры: диаграмма состояний и переходов https://miro.com/app/board/uXjVOspn2BQ=/?share_link_id=77027526538
 таблица принятия решений https://docs.google.com/spreadsheets/d/14bUx5DKjB7o9irvjEb48uNw1BX4O1yuSYsndO_jebqs/edit?usp=sharing
-- Тестирование API;
+- Тестирование API
+Пример: инструкция по использованию коллекции "Яндекс Расписание" в Postman https://docs.google.com/document/d/1PIRZWlqZ4DnAFTmGiVKfrBtPFKtglceEZAYthuqgEqk/edit?usp=sharing
+Пример: инструкция по использованию коллекции "Кинопоиск" в Postman https://docs.google.com/document/d/1QOiBg4F_wDk1hS-_bdfiCvGTAsDmrfxLt6u8Ye90sAM/edit?usp=sharing 
 - Нагрузочное тестирование;
 - SOAP;
-- SQL (SELECT-запросы);
+- SQL (SELECT-запросы)
+Пример: https://docs.google.com/document/d/1uVd4y001Kmf1MdsLR8gyWzL1qxNMY7P2RpwFB8HZdF8/edit?usp=sharing 
 - Тестирование мобильных приложений;
 - Git;
+- CI/CD;
+- HTML;
+- CSS;
 ## Дополнительные навыки:
 - Язык программирования Python - прохожу курс для начинающих;
 - Английский язык - общий уровень - Advanced, разговорный уровень - Proficiency;
 - Графический дизайн - прохожу курс в школе Gonzo design;
 ## Инструменты:
 - DevTools;
+- Confluence;
 - Декомпозиция - Miro;
 - Чек-листы - Sitechko;
 - Составление тест-кейсов - qase.io;
 - Баг-трекинговая система - Jira;
 - Тестирование API - Postman;
+- Сниффер - Charles;
 - Нагрузочное тестирование - Apache Jmeter;
 - SOAP - SoapUI;
 - SQL - PostgreSQL.
